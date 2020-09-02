@@ -14,3 +14,6 @@ npm install --save morgan
 body-parser
 cors=> cross-origin resourse sharing
 mongoose
+
+# hosted in
+https://zepto-server.herokuapp.com/
